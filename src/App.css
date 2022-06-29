@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: pink;
+  width: 100%;
+}
+.home{
+  float: left;
+}
+.form{
+  margin:20px 350px 50px 350px ;
+}
+.prodacts{
+  display: flex;
+  
+  
+}
+.prodact{
+  width: 350px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
